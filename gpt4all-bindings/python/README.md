@@ -8,6 +8,8 @@ docs.gpt4all.io
 ## Installation
 
 ```
+pip install pandas
+pip install CherryPy
 pip install gpt4all
 ```
 
